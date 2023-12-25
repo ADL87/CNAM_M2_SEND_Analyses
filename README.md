@@ -1,4 +1,5 @@
 Ce dépot agrège quelques excercices d'analyse de données que j'ai effectué durant le Master 2 :
+<br>
 <ul>
   <li> Méthodes statistiques exploratoire afin de réduire l'information contenues dans les grandes bases de données :
     <br>
@@ -13,7 +14,7 @@ Ce dépot agrège quelques excercices d'analyse de données que j'ai effectué d
     </ul>
   </li>
 </ul>
-
+<br>
 <ul>
   <li> Méthodes statistiques prédictives :
     <ul>
