@@ -7,7 +7,7 @@ Ce dépot agrège quelques excercices d'analyse de données que j'ai effectué d
     </ul>
     <ul>
       <li> Classification (CAH) >> Classification ascendante hiérarchique (variables quantitatives & qualitatives) réalisée via les scripts SAS <code>CAH_appli_chiens</code> <code>CAH_appli_hotels</code> <code>CAH_appli_temperature</code>
-      <em> Les bases de données sont situées dans le dossier <code>database</code>: <code>chiens</code> <code>hotels</code> <code>temperature</code></em></li>
+      <br><em> Les bases de données sont situées dans le dossier <code>database</code>: <code>chiens</code> <code>hotels</code> <code>temperature</code></em></li>
     </ul>
   </li>
 </ul>
