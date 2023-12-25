@@ -5,10 +5,9 @@ Ce dépot agrège quelques excercices d'analyse de données que j'ai effectué d
       <li> Analyses factorielles multivariées >> ACP (nature des variables: quantitative) ACM (nature des variables: qualitative) réalisées via les scripts SAS <code>ACM_appli_chiens_res</code> <code>ACP_appli_hotel_macro-insee</code> 		 
       <code>ACP_appli_hotel_res</code> <code>ACP_appli_temperature</code> <code>ACP_appli_temperature_macro-insee</code></li>
     </ul>
-  </li>
-<ul>
-  <li> Classification (CAH) >> Classification ascendante hiérarchique (variables quantitatives & qualitatives) réalisée via les scripts SAS <code>CAH_appli_chiens</code> <code>CAH_appli_hotels</code> <code>CAH_appli_temperature</code>
-  <br><em> Les bases de données sont situées dans le dossier <code>database</code>: <code>chiens</code> <code>hotels</code> <code>temperature</code></em></li>
+    <ul>
+      <li> Classification (CAH) >> Classification ascendante hiérarchique (variables quantitatives & qualitatives) réalisée via les scripts SAS <code>CAH_appli_chiens</code> <code>CAH_appli_hotels</code> <code>CAH_appli_temperature</code>
+      <br><em> Les bases de données sont situées dans le dossier <code>database</code>: <code>chiens</code> <code>hotels</code> <code>temperature</code></em></li>
 </ul>
 <ul>
   <li> Méthodes statistiques prédictives :
