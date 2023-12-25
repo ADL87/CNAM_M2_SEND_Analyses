@@ -12,7 +12,7 @@ Ce dépôt agrège quelques excercices d'analyse de données que j'ai effectué 
   </li>
 </ul>
 <ul>
-  <br><li> Méthodes statistiques prédictives :
+  <li> Méthodes statistiques prédictives :
     <ul>  
       <li> Régression linéaire multiple >> Evaluation : "Analyser l’écart de salaire mensuel net (facteur à expliquer: variable quantitative) entre la population immigrée et la population née en 
       France" - Les données à mobiliser sont issues des enquêtes Emploi réalisées par l’Insee en 2015 et 2016 via le script R <code>RLM_appli_examen</code> et la synthèse de l'analyse <code>RLM_synthese_examen</code> <br>
