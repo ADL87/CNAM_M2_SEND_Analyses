@@ -10,3 +10,28 @@ Ce dépot agrège quelques excercices d'analyse de données que j'ai effectué d
 France" - Les données à mobiliser sont issues des enquêtes Emploi réalisées par l’Insee en 2015 et 2016 via le script R <code>RLM_appli_examen</code> et la synthèse de l'analyse <code>RLM_synthese_examen</code>
 <em> L'énoncé se situe dans le dossier <code>annexe</code><code>RLM_devoir_examen</code></em>
 <em> La base de données est située dans le dossier <code>database</code>: <code>enq_emploi_salarie_2016</code><code>enq_emploi_salarie_2015</code></em></li>
+<ul>
+  <li>Animals
+    <ul>
+      <li>Birds</li>
+      <li>Mammals
+	<ul>
+          <li>Elephant</li>
+          <li><a href="#">Mouse</a></li>
+	</ul>
+      </li>
+      <li>Reptiles</li>
+    </ul>
+  </li>
+  <li>Plants
+    <ul>
+      <li>Flowers
+	<ul>
+          <li>Rose</li>
+          <li>Tulip</li>
+	</ul>
+      </li>
+      <li>Trees</li>
+    </ul>
+  </li>
+</ul>
