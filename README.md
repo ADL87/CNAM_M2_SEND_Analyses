@@ -11,6 +11,7 @@ Ce dépot agrège quelques excercices d'analyse de données que j'ai effectué d
     </ul>
   </li>
 </ul>
+
 <ul>
   <li> Méthodes statistiques prédictives :
     <ul>
