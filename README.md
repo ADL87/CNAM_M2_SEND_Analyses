@@ -1,9 +1,9 @@
 Ce dépot agrège quelques excercices d'analyse de données que j'ai effectué durant le Master 2 :
 <br>
 <ul>
-  <li> Méthodes statistiques exploratoire afin de réduire l'information contenues dans les grandes bases de données :<br>
+  <li> Méthodes statistiques exploratoire afin de réduire l'information contenues dans les grandes bases de données :
     <ul>
-      <li> Analyses factorielles multivariées >> ACP (nature des variables: quantitative) ACM (nature des variables: qualitative) réalisées via les scripts SAS <code>ACM_appli_chiens_res</code> <code>ACP_appli_hotel_macro-insee</code> 		 
+      <br><li> Analyses factorielles multivariées >> ACP (nature des variables: quantitative) ACM (nature des variables: qualitative) réalisées via les scripts SAS <code>ACM_appli_chiens_res</code> <code>ACP_appli_hotel_macro-insee</code> 		 
       <code>ACP_appli_hotel_res</code> <code>ACP_appli_temperature</code> <code>ACP_appli_temperature_macro-insee</code></li>
     </ul>
     <br>
