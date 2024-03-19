@@ -79,4 +79,9 @@ title1 "Les variables dans le plan 1-2";
 title1 " ";
 
 /* 3. Résultats:
-TBD
+La répartition en deux groupes permet surtout de distinguer:
+- Un premier groupe concernant les hotels ayant en moyenne un "meilleur" service du séjour dans l'hotel (bien équipé, chambre confortable, restauration de qualité).
+Ces hotels ont également un prix moyen plus élevé.
+Ils sont situés en grande partie à Berlin et Amsterdam (dans une moindre mesure Paris)
+- Un second groupe agrègeant les hotels en moyenne une qualité du séjour dans l'hotel plus optimale (tranquillité, propre, accueillant, bien desservi) et 
+Ils sont situés en grande partie à Bruxelles et Londres
