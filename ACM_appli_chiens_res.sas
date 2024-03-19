@@ -144,6 +144,3 @@ TITLE2 "'Macro INSEE' Représentation graphique des modalités + variables illus
 				 	-- Les modalités illustratives "proches" graphiquement de variables différentes ou communes sont celles des individus avec un profil similaires
 						. Compagnie, Affect+ : proche et affectueux (Axe 1)  
 						. Affect-, Utilite : peu affectueux avec aide (Axe 1)*/
-						   
-
-/* 10. Intégration de l'individu illustratif "Berger all"*/
