@@ -1,4 +1,4 @@
-Ce dépôt agrège quelques excercices d'analyse de données que j'ai effectué durant le Master 2 (seul est spécifié le code brut accompagné de commentaires, il n'y a pas de graphiques). 
+Ce dépôt regroupe plusieurs exercices d'analyse de données que j'ai réalisés lors de mon Master 2, il contient uniquement le code brut avec des commentaires, sans aucun graphique. 
 <ul>
   <li> Méthodes statistiques afin de réduire l'information contenue dans les grandes bases de données :
     <ul>
